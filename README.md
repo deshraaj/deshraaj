@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DESHRAJ SINGH</h1>
 <h3 align="center">A passionate fullstack app developer from India</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I have completed **flutter** with some excellent projects integrated with firebase
 
 - 📫 How to reach me **deshrajsingh769735@gmail.com**
 
